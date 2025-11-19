@@ -26,9 +26,8 @@ I am a **Web Developer, UI/UX Designer, and Graphic Designer** passionate about 
 
 ## 📸 Preview  
 You can view the live website here:  
-👉 **https://your-username.github.io**
+👉 **(https://suriya-portfolio-dev.netlify.app)**
 
-*(Replace `your-username` with your real GitHub username)*
 
 ---
 
